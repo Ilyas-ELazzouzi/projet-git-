@@ -56,4 +56,3 @@ while True:
 
     else:
         print("Option invalide, veuillez réessayer.")
-                        if
